@@ -11,8 +11,7 @@ table td{
 
     border:2px solid white
 }
-input[type="text"]:focus{
+input:focus{
     
-  outline-color: forestgreen;
-
+  outline-color: green;
 }
